@@ -3,7 +3,7 @@
 - Projek TWS UBSI 
 - Menggunakan Flutlab atau idx dev google 
 
-## Default menggunakan flutlab.io 
+## Projek Default ini menggunakan flutlab.io 
 - Jika kamu pakai idx google > pakai link dibawah
 - build using idx google dev > https://github.com/risunCode/vigenesia/tree/idx_build
 
